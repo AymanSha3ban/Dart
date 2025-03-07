@@ -1,7 +1,7 @@
 // Calculator
 import 'dart:io';
 void add(int x , int y){
-  print(x+y) ;
+  print(x+y);
 }
 void sub(int x , int y){
   print(x-y) ;
